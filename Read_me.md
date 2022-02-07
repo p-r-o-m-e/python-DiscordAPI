@@ -1,1 +1,1 @@
-Simple Discord Python bot project made for learning purpose of discord API.
+Simple Discord Python bot made for purpose of learning how to connect to discord API.
